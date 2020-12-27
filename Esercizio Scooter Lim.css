@@ -1,0 +1,78 @@
+body {
+  background-image:  url(back.jpg);
+  background-size: cover;
+}
+
+.contenitore{
+  width: 1000px;
+  margin: auto;
+  padding: 100px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 2%;
+}
+
+header{
+  text-align: center;
+}
+
+.logo{
+  width: 260px;
+}
+
+.logotext{
+  color: lime;
+  font-size: 34px;
+  font-family: sans-serif;
+}
+
+.menù{
+  background-color: lime;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: -15px;
+  padding: 12px;
+}
+
+.gino22, .mike24, .fede154{
+  line-height: 30px;
+}
+
+.nome1, .nome2, .nome3{
+  color: white;
+  font-family: sans-serif;
+  font-size: 22px;
+}
+
+.arrow:after{
+  color: white;
+  content: "\21A3"
+}
+
+.testo1, .testo2, .testo3, .carica1, .carica2, .carica3{
+  color: white;
+  font-family: sans-serif;
+}
+
+.barra1 {
+  background-color: orange;
+  border-radius: 5%;
+  margin-bottom: 30px;
+  padding: 12px;
+  width: 32%;
+}
+
+.barra2 {
+  background-color: lime;
+  border-radius: 5%;
+  margin-bottom: 30px;
+  padding: 12px;
+  width: 58%;
+}
+
+.barra3 {
+  background-color: red;
+  border-radius: 5%;
+  margin-bottom: 30px;
+  padding: 12px;
+  width: 12%;
+}
